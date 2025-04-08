@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="166" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9tb25lM3B6eW0xOGp1MDdza2ZtcHhtZWc0bmMxY3d6ZWt2N2x0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -50,13 +46,21 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="166" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9tb25lM3B6eW0xOGp1MDdza2ZtcHhtZWc0bmMxY3d6ZWt2N2x0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/snake.svg" alt="Snake animation" />
 
 ###
 
