@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/__sempiternity__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="anantsagar064@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/anant-sagar-srivastava-577aa6284/" target="_blank">
@@ -51,18 +51,28 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="right" height="166" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="180" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif"  />
+
+###
+
+<img align="left" height="397" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWtqbzVyNXk1dzRzbTBjdTQ0c3h1MzgxMjY5NDM1enIzaWJybHpxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+
+###
+
+<img align="right" height="188" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k3anBpaTN0bWVmZXZ6YWY2ZDN5anRoYm1nNnRscWhseGVqcGtsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/anantsagarsrivastava/count.svg?"  />
+</div>
 
 ###
