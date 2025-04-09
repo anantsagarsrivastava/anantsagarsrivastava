@@ -68,11 +68,3 @@
 <img align="right" height="188" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3k3anBpaTN0bWVmZXZ6YWY2ZDN5anRoYm1nNnRscWhseGVqcGtsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anantsagarsrivastava/count.svg?"  />
-</div>
-
-###
