@@ -38,15 +38,16 @@
   <a href="https://www.instagram.com/__sempiternity__/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="anantsagar064@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/anant-sagar-srivastava-577aa6284/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="anantsagar064@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
-
-###
-
-<img align="right" height="166" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9tb25lM3B6eW0xOGp1MDdza2ZtcHhtZWc0bmMxY3d6ZWt2N2x0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
@@ -58,20 +59,10 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="166" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/anantsagarsrivastava/anantsagarsrivastava/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa244dWpyOG9nYjg0enQyNW55N3d6eDh0OTF4eTBpcHlqOHc5OGswdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anantsagarsrivastava/count.svg?"  />
-</div>
 
 ###
